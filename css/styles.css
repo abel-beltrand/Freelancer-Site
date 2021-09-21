@@ -19,3 +19,16 @@ body{
 .title span{
     font-size: 2rem;
 }
+.container{
+    width: 120rem;
+    margin: 0 auto;
+}
+.nav-bg{
+    background-color: var(--secundario);
+}
+.main-navigation{
+    
+}
+.main-navigation a{
+    background-color: var(--primario);
+}
